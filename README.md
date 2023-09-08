@@ -1,2 +1,2 @@
 # Java-Basic
-This is a repository that contains codes when I studied basic Java.
+This is a repository that contains codes when I studied basic of Java.
